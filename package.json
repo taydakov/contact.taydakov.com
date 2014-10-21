@@ -1,0 +1,9 @@
+{
+  "name": "contact.taydakov.com",
+  "description": "Contact form logic for taydakov.com",
+  "version": "0.0.1",
+
+  "dependencies": {
+    "nodemailer": "~1.0"
+  }
+}
